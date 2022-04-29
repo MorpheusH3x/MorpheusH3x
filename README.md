@@ -23,5 +23,5 @@ I'm MorpheusH3x, a 19 year old guy who alternates between student, high level at
 - [LanGate2000](https://github.com/InsaLan/langate2000): As a member of the Sysrez (System & Network) team at [InsaLan](https://www.insalan.fr/).
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MorpheusH3x&show_icons=true&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=MorpheusH3x&show_icons=true&theme=ocean_dark&include_all_commits=true&custom_title=Github%20Stats&hide=stars">
 </p>
