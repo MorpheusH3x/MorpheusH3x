@@ -13,7 +13,7 @@ I'm MorpheusH3x, a 19 year old guy who alternates between student, high level at
 
  - Follow me on Twitter: <a href="https://twitter.com/intent/follow?screen_name=MorpheusH3x" title="Follow"><img src="https://img.shields.io/twitter/follow/MorpheusH3x?label=MorpheusH3x&style=social"></a>
  - My personnal blog: [https://morpheush3x.github.io/](https://morpheush3x.github.io/)
- - Contact me via email: [morpheush3x@protonmail.com](morpheush3x@protonmail.com)
+ - Contact me via email: [morpheush3x@protonmail.com](morpheush3x@protonmail.com) [GPG](publickey.morpheush3x@protonmail.com)
  - Send a message on Discord: MorpheusH3x#6243 or on [Matrix](https://matrix.to/#/@morpheush3x:matrix.org)
 ---
 
