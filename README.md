@@ -15,6 +15,7 @@ I'm MorpheusH3x, a 20 year old guy who alternates between student, high level at
  - My personnal blog: [https://morpheush3x.github.io/](https://morpheush3x.github.io/)
  - Contact me via email: [morpheush3x@protonmail.com](morpheush3x@protonmail.com) ([GPG](https://raw.githubusercontent.com/MorpheusH3x/MorpheusH3x/main/publickey.morpheush3x%40protonmail.com))
  - Send a message on Discord: MorpheusH3x#6243 or on [Matrix](https://matrix.to/#/@morpheush3x:matrix.org)
+ - Hit me up on [Session](https://getsession.org/): 05a6f940bdcf583c08a6cd8a477f1c861c18f2e9ad2eb67a2282d2689e19b86304
 ---
 
 <h3 align="left">My Projects:</h3>
