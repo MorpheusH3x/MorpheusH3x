@@ -1,5 +1,5 @@
 <h1 align="center"> MorpheusH3x (MH) </h1>
-<h3 align="center"> French 🇫🇷 | Insa Rennes | CTF player for @ret2school_fr </h3>
+<h3 align="center"> French 🇫🇷 | ESNA | CTF player for @ret2school_fr </h3>
 <h3 align="center"> <b>„Call My Leg Does Not Exist“ - RFC 2543<b/> </h3>
 
 Hi ! 👋
@@ -14,7 +14,7 @@ I'm MorpheusH3x, a 20 year old guy who alternates between student, high level at
  - Follow me on Twitter: <a href="https://twitter.com/intent/follow?screen_name=MorpheusH3x" title="Follow"><img src="https://img.shields.io/twitter/follow/MorpheusH3x?label=MorpheusH3x&style=social"></a>
  - My personnal blog: [https://morpheush3x.github.io/](https://morpheush3x.github.io/)
  - Contact me via email: [morpheush3x@protonmail.com](morpheush3x@protonmail.com) ([GPG](https://raw.githubusercontent.com/MorpheusH3x/MorpheusH3x/main/publickey.morpheush3x%40protonmail.com))
- - Send a message on Discord: MorpheusH3x#6243 or on [Matrix](https://matrix.to/#/@morpheush3x:matrix.org)
+ - Send a message on Discord: MorpheusH3x or on [Matrix](https://matrix.to/#/@morpheush3x:matrix.org)
  - Hit me up on [Session](https://getsession.org/): 05a6f940bdcf583c08a6cd8a477f1c861c18f2e9ad2eb67a2282d2689e19b86304
 ---
 
